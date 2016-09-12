@@ -1,0 +1,20 @@
+{
+  "name": "thing-it-device-occupancy-sensor",
+  "version": "0.0.1",
+  "description": "[thing-it-node] Device Plugin to demo occupancy management.",
+  "authors": "Marc Gille",
+  "keywords": [
+    "Occupancy Sensor",
+    "Parking Garage",
+    "Room Occupation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcgille/thing-it-device-occupancy-sensor"
+  },
+  "dependencies": {
+    "lodash": "^4.1.0",
+    "q": "^1.4.1",
+    "thing-it-test": "0.0.15"
+  }
+}
