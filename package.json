@@ -1,6 +1,6 @@
 {
   "name": "@thing-it/device-occupancy-sensor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "[thing-it-node] Device Plugin to demo occupancy management.",
   "authors": "Marc Gille",
   "keywords": [
