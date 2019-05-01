@@ -1,5 +1,5 @@
 {
-  "name": "thing-it-device-occupancy-sensor",
+  "name": "@thing-it/device-occupancy-sensor",
   "version": "0.0.1",
   "description": "[thing-it-node] Device Plugin to demo occupancy management.",
   "authors": "Marc Gille",
@@ -11,6 +11,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/marcgille/thing-it-device-occupancy-sensor"
+  },
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish"
   },
   "dependencies": {
     "lodash": "^4.1.0",
